@@ -70,8 +70,8 @@ python 01_data_cleaning.py
 python 02_analysis.py
 python 03_visualizations.py
 python 04_sql_analysis.py
-python model_training.py
-streamlit run app.py
+python 05_model_training.py
+streamlit 06_app.py
 ```
 
 ## Files
